@@ -1,4 +1,4 @@
-## Request Notificationy
+## Request Notification
 
 ### Description
 When an image request is made, you have the option to notify an endpoint or any registered email recipient associated with the request. This feature is useful for scenarios where the request process concludes with filling out a form and capturing user details. These details are saved to the request, allowing you to send the request results to the user at a later time. The provided URL will be triggered upon the completion of the request process, using a predefined payload.
